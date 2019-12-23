@@ -152,7 +152,7 @@ fn run(rom: String, config: &Config) -> BoxResult<()> {
                 ip = ip + 1;
                 let third  = program[ip].parse::<isize>()?;
                 ip = ip + 1; // next OP
-                vm::Op::LessThan(first, second, third)
+                vm::Op::Equals(first, second, third)
             },
             "99" => { vm::Op::Halt },
             _ => {
@@ -198,19 +198,6 @@ fn run(rom: String, config: &Config) -> BoxResult<()> {
                         first
                     }
                     _ => {
-                        // match program[first].parse::<isize>() {
-                        //     Ok(c) => {
-                        //         c
-                        //     }
-                        //     _ => {
-                        //         let mut i = 0;
-                        //         for c in rom.replace(",", " ").split_ascii_whitespace() {
-                        //             println!("{}: {}", i, c);
-                        //             i = i + 1;
-                        //         }
-                        //         0
-                        //     },
-                        // }
                         program[first as usize].parse::<isize>()?
                     }
                 };
@@ -226,6 +213,106 @@ fn run(rom: String, config: &Config) -> BoxResult<()> {
                     println!("args: {} {} {}", first, second, third);
                 }
                 program[third as usize] = (first + second).to_string();
+            },
+            vm::Op::LessThan(mut first, mut second, third) => {
+                first = match modes {
+                    "1" | "01" | "11" => {
+                        first
+                    }
+                    _ => {
+                        program[first as usize].parse::<isize>()?
+                    }
+                };
+                second = match modes {
+                    "11" | "10" => {
+                        second
+                    }
+                    _ => {
+                        program[second as usize].parse::<isize>()?
+                    }
+                };
+                if config.debug {
+                    println!("args: {} {} {}", first, second, third);
+                }
+                if first < second {
+                    program[third as usize] = "1".to_string();
+                } else {
+                    program[third as usize] = "0".to_string();
+                }
+            },
+            vm::Op::Equals(mut first, mut second, third) => {
+                first = match modes {
+                    "1" | "01" | "11" => {
+                        first
+                    }
+                    _ => {
+                        program[first as usize].parse::<isize>()?
+                    }
+                };
+                second = match modes {
+                    "11" | "10" => {
+                        second
+                    }
+                    _ => {
+                        program[second as usize].parse::<isize>()?
+                    }
+                };
+                if config.debug {
+                    println!("args: {} {} {}", first, second, third);
+                }
+                if first == second {
+                    program[third as usize] = "1".to_string();
+                } else {
+                    program[third as usize] = "0".to_string();
+                }
+            },
+            vm::Op::JumpIfTrue(mut first, mut second) => {
+                first = match modes {
+                    "1" | "01" | "11" => {
+                        first
+                    }
+                    _ => {
+                        program[first as usize].parse::<isize>()?
+                    }
+                };
+                second = match modes {
+                    "11" | "10" => {
+                        second
+                    }
+                    _ => {
+                        program[second as usize].parse::<isize>()?
+                    }
+                };
+                if config.debug {
+                    println!("args: {} {} {}", first, second, ip);
+                }
+                if first > 0 {
+                    ip = second as usize;
+                }
+            },
+            vm::Op::JumpIfFalse(mut first, mut second) => {
+                first = match modes {
+                    "1" | "01" | "11" => {
+                        first
+                    }
+                    _ => {
+                        program[first as usize].parse::<isize>()?
+                    }
+                };
+                second = match modes {
+                    "11" | "10" => {
+                        second
+                    }
+                    _ => {
+                        program[second as usize].parse::<isize>()?
+                    }
+                };
+                if config.debug {
+                    println!("args: {} {} {}", first, second, ip);
+                }
+                if first == 0 {
+                    ip = second as usize;
+                }
             },
             vm::Op::Halt => {
                 break;
