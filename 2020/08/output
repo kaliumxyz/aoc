@@ -1,0 +1,2196 @@
+0 [ 'acc', '+15' ]
+1 [ 'acc', '+2' ]
+2 [ 'acc', '-14' ]
+3 [ 'jmp', '+362' ]
+365 [ 'acc', '-11' ]
+366 [ 'acc', '+42' ]
+367 [ 'jmp', '+153' ]
+520 [ 'jmp', '-60' ]
+460 [ 'acc', '+46' ]
+461 [ 'acc', '-13' ]
+462 [ 'acc', '+41' ]
+463 [ 'acc', '+11' ]
+464 [ 'jmp', '-188' ]
+276 [ 'acc', '+32' ]
+277 [ 'jmp', '-92' ]
+185 [ 'acc', '+47' ]
+186 [ 'nop', '+394' ]
+187 [ 'jmp', '-13' ]
+174 [ 'nop', '+52' ]
+175 [ 'acc', '+25' ]
+176 [ 'jmp', '+376' ]
+552 [ 'jmp', '-10' ]
+542 [ 'acc', '-15' ]
+543 [ 'acc', '+4' ]
+544 [ 'nop', '-330' ]
+545 [ 'acc', '+32' ]
+546 [ 'jmp', '-115' ]
+431 [ 'acc', '-7' ]
+432 [ 'jmp', '-107' ]
+325 [ 'acc', '+3' ]
+326 [ 'jmp', '+109' ]
+435 [ 'acc', '+48' ]
+436 [ 'jmp', '-65' ]
+371 [ 'jmp', '-289' ]
+82 [ 'acc', '+16' ]
+83 [ 'acc', '+9' ]
+84 [ 'acc', '-2' ]
+85 [ 'acc', '-5' ]
+86 [ 'jmp', '+276' ]
+362 [ 'jmp', '+263' ]
+625 [ 'nop', '-546' ]
+626 [ 'jmp', '-490' ]
+136 [ 'acc', '+24' ]
+137 [ 'jmp', '+93' ]
+230 [ 'jmp', '-103' ]
+127 [ 'acc', '+44' ]
+128 [ 'acc', '+36' ]
+129 [ 'nop', '+45' ]
+130 [ 'jmp', '+137' ]
+267 [ 'acc', '-5' ]
+268 [ 'acc', '+15' ]
+269 [ 'acc', '+8' ]
+270 [ 'jmp', '+310' ]
+580 [ 'acc', '-13' ]
+581 [ 'jmp', '-170' ]
+411 [ 'acc', '+6' ]
+412 [ 'jmp', '-208' ]
+204 [ 'acc', '+30' ]
+205 [ 'jmp', '+144' ]
+349 [ 'jmp', '-181' ]
+168 [ 'acc', '-2' ]
+169 [ 'acc', '+49' ]
+170 [ 'acc', '+3' ]
+171 [ 'acc', '-17' ]
+172 [ 'jmp', '-52' ]
+120 [ 'acc', '+7' ]
+121 [ 'acc', '+31' ]
+122 [ 'acc', '+14' ]
+123 [ 'acc', '+0' ]
+124 [ 'jmp', '+291' ]
+415 [ 'acc', '+23' ]
+416 [ 'acc', '+23' ]
+417 [ 'acc', '+24' ]
+418 [ 'acc', '+26' ]
+419 [ 'jmp', '-390' ]
+29 [ 'nop', '+182' ]
+30 [ 'acc', '+49' ]
+31 [ 'acc', '-12' ]
+32 [ 'jmp', '-14' ]
+18 [ 'jmp', '+208' ]
+226 [ 'acc', '-16' ]
+227 [ 'jmp', '+65' ]
+292 [ 'acc', '-8' ]
+293 [ 'acc', '+9' ]
+294 [ 'jmp', '+312' ]
+606 [ 'jmp', '+1' ]
+607 [ 'acc', '+45' ]
+608 [ 'acc', '+47' ]
+609 [ 'jmp', '-307' ]
+302 [ 'acc', '+19' ]
+303 [ 'nop', '-89' ]
+304 [ 'acc', '+24' ]
+305 [ 'nop', '-94' ]
+306 [ 'jmp', '+5' ]
+311 [ 'jmp', '+137' ]
+448 [ 'jmp', '-212' ]
+236 [ 'acc', '+13' ]
+237 [ 'jmp', '+114' ]
+351 [ 'acc', '+40' ]
+352 [ 'acc', '+5' ]
+353 [ 'jmp', '-274' ]
+79 [ 'acc', '-7' ]
+80 [ 'jmp', '+175' ]
+255 [ 'jmp', '+225' ]
+480 [ 'acc', '+47' ]
+481 [ 'acc', '-18' ]
+482 [ 'acc', '-1' ]
+483 [ 'acc', '+2' ]
+484 [ 'jmp', '-152' ]
+332 [ 'acc', '+28' ]
+333 [ 'jmp', '-134' ]
+199 [ 'acc', '+24' ]
+200 [ 'acc', '+43' ]
+201 [ 'acc', '+50' ]
+202 [ 'jmp', '+58' ]
+260 [ 'acc', '+7' ]
+261 [ 'acc', '+43' ]
+262 [ 'nop', '-210' ]
+263 [ 'acc', '-9' ]
+264 [ 'jmp', '+109' ]
+373 [ 'acc', '+45' ]
+374 [ 'jmp', '-142' ]
+232 [ 'acc', '+46' ]
+233 [ 'jmp', '+289' ]
+522 [ 'acc', '+4' ]
+523 [ 'nop', '-108' ]
+524 [ 'acc', '+27' ]
+525 [ 'jmp', '+2' ]
+527 [ 'acc', '+2' ]
+528 [ 'jmp', '-103' ]
+425 [ 'acc', '-10' ]
+426 [ 'acc', '+19' ]
+427 [ 'jmp', '+167' ]
+594 [ 'nop', '-223' ]
+595 [ 'jmp', '-299' ]
+296 [ 'acc', '-3' ]
+297 [ 'acc', '-3' ]
+298 [ 'acc', '+24' ]
+299 [ 'jmp', '+94' ]
+393 [ 'acc', '+44' ]
+394 [ 'jmp', '+10' ]
+404 [ 'acc', '+0' ]
+405 [ 'acc', '+33' ]
+406 [ 'jmp', '+82' ]
+488 [ 'nop', '+67' ]
+489 [ 'acc', '+9' ]
+490 [ 'jmp', '+1' ]
+491 [ 'jmp', '-377' ]
+114 [ 'jmp', '-93' ]
+21 [ 'acc', '+2' ]
+22 [ 'acc', '-8' ]
+23 [ 'jmp', '+375' ]
+398 [ 'acc', '-5' ]
+399 [ 'nop', '+226' ]
+400 [ 'acc', '+46' ]
+401 [ 'acc', '-10' ]
+402 [ 'jmp', '-15' ]
+387 [ 'jmp', '+168' ]
+555 [ 'acc', '+41' ]
+556 [ 'jmp', '+59' ]
+615 [ 'acc', '+4' ]
+616 [ 'acc', '-3' ]
+617 [ 'acc', '+37' ]
+618 [ 'acc', '+40' ]
+619 [ 'jmp', '-32' ]
+587 [ 'acc', '+42' ]
+588 [ 'acc', '+33' ]
+589 [ 'jmp', '-395' ]
+194 [ 'acc', '+3' ]
+195 [ 'acc', '-5' ]
+196 [ 'jmp', '+337' ]
+533 [ 'acc', '+47' ]
+534 [ 'acc', '+40' ]
+535 [ 'nop', '-346' ]
+536 [ 'acc', '-2' ]
+537 [ 'jmp', '-530' ]
+7 [ 'acc', '+10' ]
+8 [ 'jmp', '+1' ]
+9 [ 'acc', '+0' ]
+10 [ 'jmp', '+236' ]
+246 [ 'acc', '+30' ]
+247 [ 'acc', '+43' ]
+248 [ 'acc', '+28' ]
+249 [ 'jmp', '-188' ]
+61 [ 'acc', '-15' ]
+62 [ 'acc', '-8' ]
+63 [ 'nop', '+288' ]
+64 [ 'acc', '-16' ]
+65 [ 'jmp', '+376' ]
+441 [ 'acc', '-5' ]
+442 [ 'jmp', '+1' ]
+443 [ 'acc', '+50' ]
+444 [ 'acc', '+37' ]
+445 [ 'jmp', '-129' ]
+316 [ 'jmp', '+144' ]
+460 'loop detected!' 1749
+460 [ 'acc', '+46' ]
+461 'loop detected!' 1795
+461 [ 'acc', '-13' ]
+462 'loop detected!' 1782
+462 [ 'acc', '+41' ]
+463 'loop detected!' 1823
+463 [ 'acc', '+11' ]
+464 'loop detected!' 1834
+464 [ 'jmp', '-188' ]
+276 'loop detected!' 1834
+276 [ 'acc', '+32' ]
+277 'loop detected!' 1866
+277 [ 'jmp', '-92' ]
+185 'loop detected!' 1866
+185 [ 'acc', '+47' ]
+186 'loop detected!' 1913
+186 [ 'nop', '+394' ]
+187 'loop detected!' 1913
+187 [ 'jmp', '-13' ]
+174 'loop detected!' 1913
+174 [ 'nop', '+52' ]
+175 'loop detected!' 1913
+175 [ 'acc', '+25' ]
+176 'loop detected!' 1938
+176 [ 'jmp', '+376' ]
+552 'loop detected!' 1938
+552 [ 'jmp', '-10' ]
+542 'loop detected!' 1938
+542 [ 'acc', '-15' ]
+543 'loop detected!' 1923
+543 [ 'acc', '+4' ]
+544 'loop detected!' 1927
+544 [ 'nop', '-330' ]
+545 'loop detected!' 1927
+545 [ 'acc', '+32' ]
+546 'loop detected!' 1959
+546 [ 'jmp', '-115' ]
+431 'loop detected!' 1959
+431 [ 'acc', '-7' ]
+432 'loop detected!' 1952
+432 [ 'jmp', '-107' ]
+325 'loop detected!' 1952
+325 [ 'acc', '+3' ]
+326 'loop detected!' 1955
+326 [ 'jmp', '+109' ]
+435 'loop detected!' 1955
+435 [ 'acc', '+48' ]
+436 'loop detected!' 2003
+436 [ 'jmp', '-65' ]
+371 'loop detected!' 2003
+371 [ 'jmp', '-289' ]
+82 'loop detected!' 2003
+82 [ 'acc', '+16' ]
+83 'loop detected!' 2019
+83 [ 'acc', '+9' ]
+84 'loop detected!' 2028
+84 [ 'acc', '-2' ]
+85 'loop detected!' 2026
+85 [ 'acc', '-5' ]
+86 'loop detected!' 2021
+86 [ 'jmp', '+276' ]
+362 'loop detected!' 2021
+362 [ 'jmp', '+263' ]
+625 'loop detected!' 2021
+625 [ 'nop', '-546' ]
+626 'loop detected!' 2021
+626 [ 'jmp', '-490' ]
+136 'loop detected!' 2021
+136 [ 'acc', '+24' ]
+137 'loop detected!' 2045
+137 [ 'jmp', '+93' ]
+230 'loop detected!' 2045
+230 [ 'jmp', '-103' ]
+127 'loop detected!' 2045
+127 [ 'acc', '+44' ]
+128 'loop detected!' 2089
+128 [ 'acc', '+36' ]
+129 'loop detected!' 2125
+129 [ 'nop', '+45' ]
+130 'loop detected!' 2125
+130 [ 'jmp', '+137' ]
+267 'loop detected!' 2125
+267 [ 'acc', '-5' ]
+268 'loop detected!' 2120
+268 [ 'acc', '+15' ]
+269 'loop detected!' 2135
+269 [ 'acc', '+8' ]
+270 'loop detected!' 2143
+270 [ 'jmp', '+310' ]
+580 'loop detected!' 2143
+580 [ 'acc', '-13' ]
+581 'loop detected!' 2130
+581 [ 'jmp', '-170' ]
+411 'loop detected!' 2130
+411 [ 'acc', '+6' ]
+412 'loop detected!' 2136
+412 [ 'jmp', '-208' ]
+204 'loop detected!' 2136
+204 [ 'acc', '+30' ]
+205 'loop detected!' 2166
+205 [ 'jmp', '+144' ]
+349 'loop detected!' 2166
+349 [ 'jmp', '-181' ]
+168 'loop detected!' 2166
+168 [ 'acc', '-2' ]
+169 'loop detected!' 2164
+169 [ 'acc', '+49' ]
+170 'loop detected!' 2213
+170 [ 'acc', '+3' ]
+171 'loop detected!' 2216
+171 [ 'acc', '-17' ]
+172 'loop detected!' 2199
+172 [ 'jmp', '-52' ]
+120 'loop detected!' 2199
+120 [ 'acc', '+7' ]
+121 'loop detected!' 2206
+121 [ 'acc', '+31' ]
+122 'loop detected!' 2237
+122 [ 'acc', '+14' ]
+123 'loop detected!' 2251
+123 [ 'acc', '+0' ]
+124 'loop detected!' 2251
+124 [ 'jmp', '+291' ]
+415 'loop detected!' 2251
+415 [ 'acc', '+23' ]
+416 'loop detected!' 2274
+416 [ 'acc', '+23' ]
+417 'loop detected!' 2297
+417 [ 'acc', '+24' ]
+418 'loop detected!' 2321
+418 [ 'acc', '+26' ]
+419 'loop detected!' 2347
+419 [ 'jmp', '-390' ]
+29 'loop detected!' 2347
+29 [ 'nop', '+182' ]
+30 'loop detected!' 2347
+30 [ 'acc', '+49' ]
+31 'loop detected!' 2396
+31 [ 'acc', '-12' ]
+32 'loop detected!' 2384
+32 [ 'jmp', '-14' ]
+18 'loop detected!' 2384
+18 [ 'jmp', '+208' ]
+226 'loop detected!' 2384
+226 [ 'acc', '-16' ]
+227 'loop detected!' 2368
+227 [ 'jmp', '+65' ]
+292 'loop detected!' 2368
+292 [ 'acc', '-8' ]
+293 'loop detected!' 2360
+293 [ 'acc', '+9' ]
+294 'loop detected!' 2369
+294 [ 'jmp', '+312' ]
+606 'loop detected!' 2369
+606 [ 'jmp', '+1' ]
+607 'loop detected!' 2369
+607 [ 'acc', '+45' ]
+608 'loop detected!' 2414
+608 [ 'acc', '+47' ]
+609 'loop detected!' 2461
+609 [ 'jmp', '-307' ]
+302 'loop detected!' 2461
+302 [ 'acc', '+19' ]
+303 'loop detected!' 2480
+303 [ 'nop', '-89' ]
+304 'loop detected!' 2480
+304 [ 'acc', '+24' ]
+305 'loop detected!' 2504
+305 [ 'nop', '-94' ]
+306 'loop detected!' 2504
+306 [ 'jmp', '+5' ]
+311 'loop detected!' 2504
+311 [ 'jmp', '+137' ]
+448 'loop detected!' 2504
+448 [ 'jmp', '-212' ]
+236 'loop detected!' 2504
+236 [ 'acc', '+13' ]
+237 'loop detected!' 2517
+237 [ 'jmp', '+114' ]
+351 'loop detected!' 2517
+351 [ 'acc', '+40' ]
+352 'loop detected!' 2557
+352 [ 'acc', '+5' ]
+353 'loop detected!' 2562
+353 [ 'jmp', '-274' ]
+79 'loop detected!' 2562
+79 [ 'acc', '-7' ]
+80 'loop detected!' 2555
+80 [ 'jmp', '+175' ]
+255 'loop detected!' 2555
+255 [ 'jmp', '+225' ]
+480 'loop detected!' 2555
+480 [ 'acc', '+47' ]
+481 'loop detected!' 2602
+481 [ 'acc', '-18' ]
+482 'loop detected!' 2584
+482 [ 'acc', '-1' ]
+483 'loop detected!' 2583
+483 [ 'acc', '+2' ]
+484 'loop detected!' 2585
+484 [ 'jmp', '-152' ]
+332 'loop detected!' 2585
+332 [ 'acc', '+28' ]
+333 'loop detected!' 2613
+333 [ 'jmp', '-134' ]
+199 'loop detected!' 2613
+199 [ 'acc', '+24' ]
+200 'loop detected!' 2637
+200 [ 'acc', '+43' ]
+201 'loop detected!' 2680
+201 [ 'acc', '+50' ]
+202 'loop detected!' 2730
+202 [ 'jmp', '+58' ]
+260 'loop detected!' 2730
+260 [ 'acc', '+7' ]
+261 'loop detected!' 2737
+261 [ 'acc', '+43' ]
+262 'loop detected!' 2780
+262 [ 'nop', '-210' ]
+263 'loop detected!' 2780
+263 [ 'acc', '-9' ]
+264 'loop detected!' 2771
+264 [ 'jmp', '+109' ]
+373 'loop detected!' 2771
+373 [ 'acc', '+45' ]
+374 'loop detected!' 2816
+374 [ 'jmp', '-142' ]
+232 'loop detected!' 2816
+232 [ 'acc', '+46' ]
+233 'loop detected!' 2862
+233 [ 'jmp', '+289' ]
+522 'loop detected!' 2862
+522 [ 'acc', '+4' ]
+523 'loop detected!' 2866
+523 [ 'nop', '-108' ]
+524 'loop detected!' 2866
+524 [ 'acc', '+27' ]
+525 'loop detected!' 2893
+525 [ 'jmp', '+2' ]
+527 'loop detected!' 2893
+527 [ 'acc', '+2' ]
+528 'loop detected!' 2895
+528 [ 'jmp', '-103' ]
+425 'loop detected!' 2895
+425 [ 'acc', '-10' ]
+426 'loop detected!' 2885
+426 [ 'acc', '+19' ]
+427 'loop detected!' 2904
+427 [ 'jmp', '+167' ]
+594 'loop detected!' 2904
+594 [ 'nop', '-223' ]
+595 'loop detected!' 2904
+595 [ 'jmp', '-299' ]
+296 'loop detected!' 2904
+296 [ 'acc', '-3' ]
+297 'loop detected!' 2901
+297 [ 'acc', '-3' ]
+298 'loop detected!' 2898
+298 [ 'acc', '+24' ]
+299 'loop detected!' 2922
+299 [ 'jmp', '+94' ]
+393 'loop detected!' 2922
+393 [ 'acc', '+44' ]
+394 'loop detected!' 2966
+394 [ 'jmp', '+10' ]
+404 'loop detected!' 2966
+404 [ 'acc', '+0' ]
+405 'loop detected!' 2966
+405 [ 'acc', '+33' ]
+406 'loop detected!' 2999
+406 [ 'jmp', '+82' ]
+488 'loop detected!' 2999
+488 [ 'nop', '+67' ]
+489 'loop detected!' 2999
+489 [ 'acc', '+9' ]
+490 'loop detected!' 3008
+490 [ 'jmp', '+1' ]
+491 'loop detected!' 3008
+491 [ 'jmp', '-377' ]
+114 'loop detected!' 3008
+114 [ 'jmp', '-93' ]
+21 'loop detected!' 3008
+21 [ 'acc', '+2' ]
+22 'loop detected!' 3010
+22 [ 'acc', '-8' ]
+23 'loop detected!' 3002
+23 [ 'jmp', '+375' ]
+398 'loop detected!' 3002
+398 [ 'acc', '-5' ]
+399 'loop detected!' 2997
+399 [ 'nop', '+226' ]
+400 'loop detected!' 2997
+400 [ 'acc', '+46' ]
+401 'loop detected!' 3043
+401 [ 'acc', '-10' ]
+402 'loop detected!' 3033
+402 [ 'jmp', '-15' ]
+387 'loop detected!' 3033
+387 [ 'jmp', '+168' ]
+555 'loop detected!' 3033
+555 [ 'acc', '+41' ]
+556 'loop detected!' 3074
+556 [ 'jmp', '+59' ]
+615 'loop detected!' 3074
+615 [ 'acc', '+4' ]
+616 'loop detected!' 3078
+616 [ 'acc', '-3' ]
+617 'loop detected!' 3075
+617 [ 'acc', '+37' ]
+618 'loop detected!' 3112
+618 [ 'acc', '+40' ]
+619 'loop detected!' 3152
+619 [ 'jmp', '-32' ]
+587 'loop detected!' 3152
+587 [ 'acc', '+42' ]
+588 'loop detected!' 3194
+588 [ 'acc', '+33' ]
+589 'loop detected!' 3227
+589 [ 'jmp', '-395' ]
+194 'loop detected!' 3227
+194 [ 'acc', '+3' ]
+195 'loop detected!' 3230
+195 [ 'acc', '-5' ]
+196 'loop detected!' 3225
+196 [ 'jmp', '+337' ]
+533 'loop detected!' 3225
+533 [ 'acc', '+47' ]
+534 'loop detected!' 3272
+534 [ 'acc', '+40' ]
+535 'loop detected!' 3312
+535 [ 'nop', '-346' ]
+536 'loop detected!' 3312
+536 [ 'acc', '-2' ]
+537 'loop detected!' 3310
+537 [ 'jmp', '-530' ]
+7 'loop detected!' 3310
+7 [ 'acc', '+10' ]
+8 'loop detected!' 3320
+8 [ 'jmp', '+1' ]
+9 'loop detected!' 3320
+9 [ 'acc', '+0' ]
+10 'loop detected!' 3320
+10 [ 'jmp', '+236' ]
+246 'loop detected!' 3320
+246 [ 'acc', '+30' ]
+247 'loop detected!' 3350
+247 [ 'acc', '+43' ]
+248 'loop detected!' 3393
+248 [ 'acc', '+28' ]
+249 'loop detected!' 3421
+249 [ 'jmp', '-188' ]
+61 'loop detected!' 3421
+61 [ 'acc', '-15' ]
+62 'loop detected!' 3406
+62 [ 'acc', '-8' ]
+63 'loop detected!' 3398
+63 [ 'nop', '+288' ]
+64 'loop detected!' 3398
+64 [ 'acc', '-16' ]
+65 'loop detected!' 3382
+65 [ 'jmp', '+376' ]
+441 'loop detected!' 3382
+441 [ 'acc', '-5' ]
+442 'loop detected!' 3377
+442 [ 'jmp', '+1' ]
+443 'loop detected!' 3377
+443 [ 'acc', '+50' ]
+444 'loop detected!' 3427
+444 [ 'acc', '+37' ]
+445 'loop detected!' 3464
+445 [ 'jmp', '-129' ]
+316 'loop detected!' 3464
+316 [ 'jmp', '+144' ]
+460 'loop detected!' 3464
+460 [ 'acc', '+46' ]
+461 'loop detected!' 3510
+461 [ 'acc', '-13' ]
+462 'loop detected!' 3497
+462 [ 'acc', '+41' ]
+463 'loop detected!' 3538
+463 [ 'acc', '+11' ]
+464 'loop detected!' 3549
+464 [ 'jmp', '-188' ]
+276 'loop detected!' 3549
+276 [ 'acc', '+32' ]
+277 'loop detected!' 3581
+277 [ 'jmp', '-92' ]
+185 'loop detected!' 3581
+185 [ 'acc', '+47' ]
+186 'loop detected!' 3628
+186 [ 'nop', '+394' ]
+187 'loop detected!' 3628
+187 [ 'jmp', '-13' ]
+174 'loop detected!' 3628
+174 [ 'nop', '+52' ]
+175 'loop detected!' 3628
+175 [ 'acc', '+25' ]
+176 'loop detected!' 3653
+176 [ 'jmp', '+376' ]
+552 'loop detected!' 3653
+552 [ 'jmp', '-10' ]
+542 'loop detected!' 3653
+542 [ 'acc', '-15' ]
+543 'loop detected!' 3638
+543 [ 'acc', '+4' ]
+544 'loop detected!' 3642
+544 [ 'nop', '-330' ]
+545 'loop detected!' 3642
+545 [ 'acc', '+32' ]
+546 'loop detected!' 3674
+546 [ 'jmp', '-115' ]
+431 'loop detected!' 3674
+431 [ 'acc', '-7' ]
+432 'loop detected!' 3667
+432 [ 'jmp', '-107' ]
+325 'loop detected!' 3667
+325 [ 'acc', '+3' ]
+326 'loop detected!' 3670
+326 [ 'jmp', '+109' ]
+435 'loop detected!' 3670
+435 [ 'acc', '+48' ]
+436 'loop detected!' 3718
+436 [ 'jmp', '-65' ]
+371 'loop detected!' 3718
+371 [ 'jmp', '-289' ]
+82 'loop detected!' 3718
+82 [ 'acc', '+16' ]
+83 'loop detected!' 3734
+83 [ 'acc', '+9' ]
+84 'loop detected!' 3743
+84 [ 'acc', '-2' ]
+85 'loop detected!' 3741
+85 [ 'acc', '-5' ]
+86 'loop detected!' 3736
+86 [ 'jmp', '+276' ]
+362 'loop detected!' 3736
+362 [ 'jmp', '+263' ]
+625 'loop detected!' 3736
+625 [ 'nop', '-546' ]
+626 'loop detected!' 3736
+626 [ 'jmp', '-490' ]
+136 'loop detected!' 3736
+136 [ 'acc', '+24' ]
+137 'loop detected!' 3760
+137 [ 'jmp', '+93' ]
+230 'loop detected!' 3760
+230 [ 'jmp', '-103' ]
+127 'loop detected!' 3760
+127 [ 'acc', '+44' ]
+128 'loop detected!' 3804
+128 [ 'acc', '+36' ]
+129 'loop detected!' 3840
+129 [ 'nop', '+45' ]
+130 'loop detected!' 3840
+130 [ 'jmp', '+137' ]
+267 'loop detected!' 3840
+267 [ 'acc', '-5' ]
+268 'loop detected!' 3835
+268 [ 'acc', '+15' ]
+269 'loop detected!' 3850
+269 [ 'acc', '+8' ]
+270 'loop detected!' 3858
+270 [ 'jmp', '+310' ]
+580 'loop detected!' 3858
+580 [ 'acc', '-13' ]
+581 'loop detected!' 3845
+581 [ 'jmp', '-170' ]
+411 'loop detected!' 3845
+411 [ 'acc', '+6' ]
+412 'loop detected!' 3851
+412 [ 'jmp', '-208' ]
+204 'loop detected!' 3851
+204 [ 'acc', '+30' ]
+205 'loop detected!' 3881
+205 [ 'jmp', '+144' ]
+349 'loop detected!' 3881
+349 [ 'jmp', '-181' ]
+168 'loop detected!' 3881
+168 [ 'acc', '-2' ]
+169 'loop detected!' 3879
+169 [ 'acc', '+49' ]
+170 'loop detected!' 3928
+170 [ 'acc', '+3' ]
+171 'loop detected!' 3931
+171 [ 'acc', '-17' ]
+172 'loop detected!' 3914
+172 [ 'jmp', '-52' ]
+120 'loop detected!' 3914
+120 [ 'acc', '+7' ]
+121 'loop detected!' 3921
+121 [ 'acc', '+31' ]
+122 'loop detected!' 3952
+122 [ 'acc', '+14' ]
+123 'loop detected!' 3966
+123 [ 'acc', '+0' ]
+124 'loop detected!' 3966
+124 [ 'jmp', '+291' ]
+415 'loop detected!' 3966
+415 [ 'acc', '+23' ]
+416 'loop detected!' 3989
+416 [ 'acc', '+23' ]
+417 'loop detected!' 4012
+417 [ 'acc', '+24' ]
+418 'loop detected!' 4036
+418 [ 'acc', '+26' ]
+419 'loop detected!' 4062
+419 [ 'jmp', '-390' ]
+29 'loop detected!' 4062
+29 [ 'nop', '+182' ]
+30 'loop detected!' 4062
+30 [ 'acc', '+49' ]
+31 'loop detected!' 4111
+31 [ 'acc', '-12' ]
+32 'loop detected!' 4099
+32 [ 'jmp', '-14' ]
+18 'loop detected!' 4099
+18 [ 'jmp', '+208' ]
+226 'loop detected!' 4099
+226 [ 'acc', '-16' ]
+227 'loop detected!' 4083
+227 [ 'jmp', '+65' ]
+292 'loop detected!' 4083
+292 [ 'acc', '-8' ]
+293 'loop detected!' 4075
+293 [ 'acc', '+9' ]
+294 'loop detected!' 4084
+294 [ 'jmp', '+312' ]
+606 'loop detected!' 4084
+606 [ 'jmp', '+1' ]
+607 'loop detected!' 4084
+607 [ 'acc', '+45' ]
+608 'loop detected!' 4129
+608 [ 'acc', '+47' ]
+609 'loop detected!' 4176
+609 [ 'jmp', '-307' ]
+302 'loop detected!' 4176
+302 [ 'acc', '+19' ]
+303 'loop detected!' 4195
+303 [ 'nop', '-89' ]
+304 'loop detected!' 4195
+304 [ 'acc', '+24' ]
+305 'loop detected!' 4219
+305 [ 'nop', '-94' ]
+306 'loop detected!' 4219
+306 [ 'jmp', '+5' ]
+311 'loop detected!' 4219
+311 [ 'jmp', '+137' ]
+448 'loop detected!' 4219
+448 [ 'jmp', '-212' ]
+236 'loop detected!' 4219
+236 [ 'acc', '+13' ]
+237 'loop detected!' 4232
+237 [ 'jmp', '+114' ]
+351 'loop detected!' 4232
+351 [ 'acc', '+40' ]
+352 'loop detected!' 4272
+352 [ 'acc', '+5' ]
+353 'loop detected!' 4277
+353 [ 'jmp', '-274' ]
+79 'loop detected!' 4277
+79 [ 'acc', '-7' ]
+80 'loop detected!' 4270
+80 [ 'jmp', '+175' ]
+255 'loop detected!' 4270
+255 [ 'jmp', '+225' ]
+480 'loop detected!' 4270
+480 [ 'acc', '+47' ]
+481 'loop detected!' 4317
+481 [ 'acc', '-18' ]
+482 'loop detected!' 4299
+482 [ 'acc', '-1' ]
+483 'loop detected!' 4298
+483 [ 'acc', '+2' ]
+484 'loop detected!' 4300
+484 [ 'jmp', '-152' ]
+332 'loop detected!' 4300
+332 [ 'acc', '+28' ]
+333 'loop detected!' 4328
+333 [ 'jmp', '-134' ]
+199 'loop detected!' 4328
+199 [ 'acc', '+24' ]
+200 'loop detected!' 4352
+200 [ 'acc', '+43' ]
+201 'loop detected!' 4395
+201 [ 'acc', '+50' ]
+202 'loop detected!' 4445
+202 [ 'jmp', '+58' ]
+260 'loop detected!' 4445
+260 [ 'acc', '+7' ]
+261 'loop detected!' 4452
+261 [ 'acc', '+43' ]
+262 'loop detected!' 4495
+262 [ 'nop', '-210' ]
+263 'loop detected!' 4495
+263 [ 'acc', '-9' ]
+264 'loop detected!' 4486
+264 [ 'jmp', '+109' ]
+373 'loop detected!' 4486
+373 [ 'acc', '+45' ]
+374 'loop detected!' 4531
+374 [ 'jmp', '-142' ]
+232 'loop detected!' 4531
+232 [ 'acc', '+46' ]
+233 'loop detected!' 4577
+233 [ 'jmp', '+289' ]
+522 'loop detected!' 4577
+522 [ 'acc', '+4' ]
+523 'loop detected!' 4581
+523 [ 'nop', '-108' ]
+524 'loop detected!' 4581
+524 [ 'acc', '+27' ]
+525 'loop detected!' 4608
+525 [ 'jmp', '+2' ]
+527 'loop detected!' 4608
+527 [ 'acc', '+2' ]
+528 'loop detected!' 4610
+528 [ 'jmp', '-103' ]
+425 'loop detected!' 4610
+425 [ 'acc', '-10' ]
+426 'loop detected!' 4600
+426 [ 'acc', '+19' ]
+427 'loop detected!' 4619
+427 [ 'jmp', '+167' ]
+594 'loop detected!' 4619
+594 [ 'nop', '-223' ]
+595 'loop detected!' 4619
+595 [ 'jmp', '-299' ]
+296 'loop detected!' 4619
+296 [ 'acc', '-3' ]
+297 'loop detected!' 4616
+297 [ 'acc', '-3' ]
+298 'loop detected!' 4613
+298 [ 'acc', '+24' ]
+299 'loop detected!' 4637
+299 [ 'jmp', '+94' ]
+393 'loop detected!' 4637
+393 [ 'acc', '+44' ]
+394 'loop detected!' 4681
+394 [ 'jmp', '+10' ]
+404 'loop detected!' 4681
+404 [ 'acc', '+0' ]
+405 'loop detected!' 4681
+405 [ 'acc', '+33' ]
+406 'loop detected!' 4714
+406 [ 'jmp', '+82' ]
+488 'loop detected!' 4714
+488 [ 'nop', '+67' ]
+489 'loop detected!' 4714
+489 [ 'acc', '+9' ]
+490 'loop detected!' 4723
+490 [ 'jmp', '+1' ]
+491 'loop detected!' 4723
+491 [ 'jmp', '-377' ]
+114 'loop detected!' 4723
+114 [ 'jmp', '-93' ]
+21 'loop detected!' 4723
+21 [ 'acc', '+2' ]
+22 'loop detected!' 4725
+22 [ 'acc', '-8' ]
+23 'loop detected!' 4717
+23 [ 'jmp', '+375' ]
+398 'loop detected!' 4717
+398 [ 'acc', '-5' ]
+399 'loop detected!' 4712
+399 [ 'nop', '+226' ]
+400 'loop detected!' 4712
+400 [ 'acc', '+46' ]
+401 'loop detected!' 4758
+401 [ 'acc', '-10' ]
+402 'loop detected!' 4748
+402 [ 'jmp', '-15' ]
+387 'loop detected!' 4748
+387 [ 'jmp', '+168' ]
+555 'loop detected!' 4748
+555 [ 'acc', '+41' ]
+556 'loop detected!' 4789
+556 [ 'jmp', '+59' ]
+615 'loop detected!' 4789
+615 [ 'acc', '+4' ]
+616 'loop detected!' 4793
+616 [ 'acc', '-3' ]
+617 'loop detected!' 4790
+617 [ 'acc', '+37' ]
+618 'loop detected!' 4827
+618 [ 'acc', '+40' ]
+619 'loop detected!' 4867
+619 [ 'jmp', '-32' ]
+587 'loop detected!' 4867
+587 [ 'acc', '+42' ]
+588 'loop detected!' 4909
+588 [ 'acc', '+33' ]
+589 'loop detected!' 4942
+589 [ 'jmp', '-395' ]
+194 'loop detected!' 4942
+194 [ 'acc', '+3' ]
+195 'loop detected!' 4945
+195 [ 'acc', '-5' ]
+196 'loop detected!' 4940
+196 [ 'jmp', '+337' ]
+533 'loop detected!' 4940
+533 [ 'acc', '+47' ]
+534 'loop detected!' 4987
+534 [ 'acc', '+40' ]
+535 'loop detected!' 5027
+535 [ 'nop', '-346' ]
+536 'loop detected!' 5027
+536 [ 'acc', '-2' ]
+537 'loop detected!' 5025
+537 [ 'jmp', '-530' ]
+7 'loop detected!' 5025
+7 [ 'acc', '+10' ]
+8 'loop detected!' 5035
+8 [ 'jmp', '+1' ]
+9 'loop detected!' 5035
+9 [ 'acc', '+0' ]
+10 'loop detected!' 5035
+10 [ 'jmp', '+236' ]
+246 'loop detected!' 5035
+246 [ 'acc', '+30' ]
+247 'loop detected!' 5065
+247 [ 'acc', '+43' ]
+248 'loop detected!' 5108
+248 [ 'acc', '+28' ]
+249 'loop detected!' 5136
+249 [ 'jmp', '-188' ]
+61 'loop detected!' 5136
+61 [ 'acc', '-15' ]
+62 'loop detected!' 5121
+62 [ 'acc', '-8' ]
+63 'loop detected!' 5113
+63 [ 'nop', '+288' ]
+64 'loop detected!' 5113
+64 [ 'acc', '-16' ]
+65 'loop detected!' 5097
+65 [ 'jmp', '+376' ]
+441 'loop detected!' 5097
+441 [ 'acc', '-5' ]
+442 'loop detected!' 5092
+442 [ 'jmp', '+1' ]
+443 'loop detected!' 5092
+443 [ 'acc', '+50' ]
+444 'loop detected!' 5142
+444 [ 'acc', '+37' ]
+445 'loop detected!' 5179
+445 [ 'jmp', '-129' ]
+316 'loop detected!' 5179
+316 [ 'jmp', '+144' ]
+460 'loop detected!' 5179
+460 [ 'acc', '+46' ]
+461 'loop detected!' 5225
+461 [ 'acc', '-13' ]
+462 'loop detected!' 5212
+462 [ 'acc', '+41' ]
+463 'loop detected!' 5253
+463 [ 'acc', '+11' ]
+464 'loop detected!' 5264
+464 [ 'jmp', '-188' ]
+276 'loop detected!' 5264
+276 [ 'acc', '+32' ]
+277 'loop detected!' 5296
+277 [ 'jmp', '-92' ]
+185 'loop detected!' 5296
+185 [ 'acc', '+47' ]
+186 'loop detected!' 5343
+186 [ 'nop', '+394' ]
+187 'loop detected!' 5343
+187 [ 'jmp', '-13' ]
+174 'loop detected!' 5343
+174 [ 'nop', '+52' ]
+175 'loop detected!' 5343
+175 [ 'acc', '+25' ]
+176 'loop detected!' 5368
+176 [ 'jmp', '+376' ]
+552 'loop detected!' 5368
+552 [ 'jmp', '-10' ]
+542 'loop detected!' 5368
+542 [ 'acc', '-15' ]
+543 'loop detected!' 5353
+543 [ 'acc', '+4' ]
+544 'loop detected!' 5357
+544 [ 'nop', '-330' ]
+545 'loop detected!' 5357
+545 [ 'acc', '+32' ]
+546 'loop detected!' 5389
+546 [ 'jmp', '-115' ]
+431 'loop detected!' 5389
+431 [ 'acc', '-7' ]
+432 'loop detected!' 5382
+432 [ 'jmp', '-107' ]
+325 'loop detected!' 5382
+325 [ 'acc', '+3' ]
+326 'loop detected!' 5385
+326 [ 'jmp', '+109' ]
+435 'loop detected!' 5385
+435 [ 'acc', '+48' ]
+436 'loop detected!' 5433
+436 [ 'jmp', '-65' ]
+371 'loop detected!' 5433
+371 [ 'jmp', '-289' ]
+82 'loop detected!' 5433
+82 [ 'acc', '+16' ]
+83 'loop detected!' 5449
+83 [ 'acc', '+9' ]
+84 'loop detected!' 5458
+84 [ 'acc', '-2' ]
+85 'loop detected!' 5456
+85 [ 'acc', '-5' ]
+86 'loop detected!' 5451
+86 [ 'jmp', '+276' ]
+362 'loop detected!' 5451
+362 [ 'jmp', '+263' ]
+625 'loop detected!' 5451
+625 [ 'nop', '-546' ]
+626 'loop detected!' 5451
+626 [ 'jmp', '-490' ]
+136 'loop detected!' 5451
+136 [ 'acc', '+24' ]
+137 'loop detected!' 5475
+137 [ 'jmp', '+93' ]
+230 'loop detected!' 5475
+230 [ 'jmp', '-103' ]
+127 'loop detected!' 5475
+127 [ 'acc', '+44' ]
+128 'loop detected!' 5519
+128 [ 'acc', '+36' ]
+129 'loop detected!' 5555
+129 [ 'nop', '+45' ]
+130 'loop detected!' 5555
+130 [ 'jmp', '+137' ]
+267 'loop detected!' 5555
+267 [ 'acc', '-5' ]
+268 'loop detected!' 5550
+268 [ 'acc', '+15' ]
+269 'loop detected!' 5565
+269 [ 'acc', '+8' ]
+270 'loop detected!' 5573
+270 [ 'jmp', '+310' ]
+580 'loop detected!' 5573
+580 [ 'acc', '-13' ]
+581 'loop detected!' 5560
+581 [ 'jmp', '-170' ]
+411 'loop detected!' 5560
+411 [ 'acc', '+6' ]
+412 'loop detected!' 5566
+412 [ 'jmp', '-208' ]
+204 'loop detected!' 5566
+204 [ 'acc', '+30' ]
+205 'loop detected!' 5596
+205 [ 'jmp', '+144' ]
+349 'loop detected!' 5596
+349 [ 'jmp', '-181' ]
+168 'loop detected!' 5596
+168 [ 'acc', '-2' ]
+169 'loop detected!' 5594
+169 [ 'acc', '+49' ]
+170 'loop detected!' 5643
+170 [ 'acc', '+3' ]
+171 'loop detected!' 5646
+171 [ 'acc', '-17' ]
+172 'loop detected!' 5629
+172 [ 'jmp', '-52' ]
+120 'loop detected!' 5629
+120 [ 'acc', '+7' ]
+121 'loop detected!' 5636
+121 [ 'acc', '+31' ]
+122 'loop detected!' 5667
+122 [ 'acc', '+14' ]
+123 'loop detected!' 5681
+123 [ 'acc', '+0' ]
+124 'loop detected!' 5681
+124 [ 'jmp', '+291' ]
+415 'loop detected!' 5681
+415 [ 'acc', '+23' ]
+416 'loop detected!' 5704
+416 [ 'acc', '+23' ]
+417 'loop detected!' 5727
+417 [ 'acc', '+24' ]
+418 'loop detected!' 5751
+418 [ 'acc', '+26' ]
+419 'loop detected!' 5777
+419 [ 'jmp', '-390' ]
+29 'loop detected!' 5777
+29 [ 'nop', '+182' ]
+30 'loop detected!' 5777
+30 [ 'acc', '+49' ]
+31 'loop detected!' 5826
+31 [ 'acc', '-12' ]
+32 'loop detected!' 5814
+32 [ 'jmp', '-14' ]
+18 'loop detected!' 5814
+18 [ 'jmp', '+208' ]
+226 'loop detected!' 5814
+226 [ 'acc', '-16' ]
+227 'loop detected!' 5798
+227 [ 'jmp', '+65' ]
+292 'loop detected!' 5798
+292 [ 'acc', '-8' ]
+293 'loop detected!' 5790
+293 [ 'acc', '+9' ]
+294 'loop detected!' 5799
+294 [ 'jmp', '+312' ]
+606 'loop detected!' 5799
+606 [ 'jmp', '+1' ]
+607 'loop detected!' 5799
+607 [ 'acc', '+45' ]
+608 'loop detected!' 5844
+608 [ 'acc', '+47' ]
+609 'loop detected!' 5891
+609 [ 'jmp', '-307' ]
+302 'loop detected!' 5891
+302 [ 'acc', '+19' ]
+303 'loop detected!' 5910
+303 [ 'nop', '-89' ]
+304 'loop detected!' 5910
+304 [ 'acc', '+24' ]
+305 'loop detected!' 5934
+305 [ 'nop', '-94' ]
+306 'loop detected!' 5934
+306 [ 'jmp', '+5' ]
+311 'loop detected!' 5934
+311 [ 'jmp', '+137' ]
+448 'loop detected!' 5934
+448 [ 'jmp', '-212' ]
+236 'loop detected!' 5934
+236 [ 'acc', '+13' ]
+237 'loop detected!' 5947
+237 [ 'jmp', '+114' ]
+351 'loop detected!' 5947
+351 [ 'acc', '+40' ]
+352 'loop detected!' 5987
+352 [ 'acc', '+5' ]
+353 'loop detected!' 5992
+353 [ 'jmp', '-274' ]
+79 'loop detected!' 5992
+79 [ 'acc', '-7' ]
+80 'loop detected!' 5985
+80 [ 'jmp', '+175' ]
+255 'loop detected!' 5985
+255 [ 'jmp', '+225' ]
+480 'loop detected!' 5985
+480 [ 'acc', '+47' ]
+481 'loop detected!' 6032
+481 [ 'acc', '-18' ]
+482 'loop detected!' 6014
+482 [ 'acc', '-1' ]
+483 'loop detected!' 6013
+483 [ 'acc', '+2' ]
+484 'loop detected!' 6015
+484 [ 'jmp', '-152' ]
+332 'loop detected!' 6015
+332 [ 'acc', '+28' ]
+333 'loop detected!' 6043
+333 [ 'jmp', '-134' ]
+199 'loop detected!' 6043
+199 [ 'acc', '+24' ]
+200 'loop detected!' 6067
+200 [ 'acc', '+43' ]
+201 'loop detected!' 6110
+201 [ 'acc', '+50' ]
+202 'loop detected!' 6160
+202 [ 'jmp', '+58' ]
+260 'loop detected!' 6160
+260 [ 'acc', '+7' ]
+261 'loop detected!' 6167
+261 [ 'acc', '+43' ]
+262 'loop detected!' 6210
+262 [ 'nop', '-210' ]
+263 'loop detected!' 6210
+263 [ 'acc', '-9' ]
+264 'loop detected!' 6201
+264 [ 'jmp', '+109' ]
+373 'loop detected!' 6201
+373 [ 'acc', '+45' ]
+374 'loop detected!' 6246
+374 [ 'jmp', '-142' ]
+232 'loop detected!' 6246
+232 [ 'acc', '+46' ]
+233 'loop detected!' 6292
+233 [ 'jmp', '+289' ]
+522 'loop detected!' 6292
+522 [ 'acc', '+4' ]
+523 'loop detected!' 6296
+523 [ 'nop', '-108' ]
+524 'loop detected!' 6296
+524 [ 'acc', '+27' ]
+525 'loop detected!' 6323
+525 [ 'jmp', '+2' ]
+527 'loop detected!' 6323
+527 [ 'acc', '+2' ]
+528 'loop detected!' 6325
+528 [ 'jmp', '-103' ]
+425 'loop detected!' 6325
+425 [ 'acc', '-10' ]
+426 'loop detected!' 6315
+426 [ 'acc', '+19' ]
+427 'loop detected!' 6334
+427 [ 'jmp', '+167' ]
+594 'loop detected!' 6334
+594 [ 'nop', '-223' ]
+595 'loop detected!' 6334
+595 [ 'jmp', '-299' ]
+296 'loop detected!' 6334
+296 [ 'acc', '-3' ]
+297 'loop detected!' 6331
+297 [ 'acc', '-3' ]
+298 'loop detected!' 6328
+298 [ 'acc', '+24' ]
+299 'loop detected!' 6352
+299 [ 'jmp', '+94' ]
+393 'loop detected!' 6352
+393 [ 'acc', '+44' ]
+394 'loop detected!' 6396
+394 [ 'jmp', '+10' ]
+404 'loop detected!' 6396
+404 [ 'acc', '+0' ]
+405 'loop detected!' 6396
+405 [ 'acc', '+33' ]
+406 'loop detected!' 6429
+406 [ 'jmp', '+82' ]
+488 'loop detected!' 6429
+488 [ 'nop', '+67' ]
+489 'loop detected!' 6429
+489 [ 'acc', '+9' ]
+490 'loop detected!' 6438
+490 [ 'jmp', '+1' ]
+491 'loop detected!' 6438
+491 [ 'jmp', '-377' ]
+114 'loop detected!' 6438
+114 [ 'jmp', '-93' ]
+21 'loop detected!' 6438
+21 [ 'acc', '+2' ]
+22 'loop detected!' 6440
+22 [ 'acc', '-8' ]
+23 'loop detected!' 6432
+23 [ 'jmp', '+375' ]
+398 'loop detected!' 6432
+398 [ 'acc', '-5' ]
+399 'loop detected!' 6427
+399 [ 'nop', '+226' ]
+400 'loop detected!' 6427
+400 [ 'acc', '+46' ]
+401 'loop detected!' 6473
+401 [ 'acc', '-10' ]
+402 'loop detected!' 6463
+402 [ 'jmp', '-15' ]
+387 'loop detected!' 6463
+387 [ 'jmp', '+168' ]
+555 'loop detected!' 6463
+555 [ 'acc', '+41' ]
+556 'loop detected!' 6504
+556 [ 'jmp', '+59' ]
+615 'loop detected!' 6504
+615 [ 'acc', '+4' ]
+616 'loop detected!' 6508
+616 [ 'acc', '-3' ]
+617 'loop detected!' 6505
+617 [ 'acc', '+37' ]
+618 'loop detected!' 6542
+618 [ 'acc', '+40' ]
+619 'loop detected!' 6582
+619 [ 'jmp', '-32' ]
+587 'loop detected!' 6582
+587 [ 'acc', '+42' ]
+588 'loop detected!' 6624
+588 [ 'acc', '+33' ]
+589 'loop detected!' 6657
+589 [ 'jmp', '-395' ]
+194 'loop detected!' 6657
+194 [ 'acc', '+3' ]
+195 'loop detected!' 6660
+195 [ 'acc', '-5' ]
+196 'loop detected!' 6655
+196 [ 'jmp', '+337' ]
+533 'loop detected!' 6655
+533 [ 'acc', '+47' ]
+534 'loop detected!' 6702
+534 [ 'acc', '+40' ]
+535 'loop detected!' 6742
+535 [ 'nop', '-346' ]
+536 'loop detected!' 6742
+536 [ 'acc', '-2' ]
+537 'loop detected!' 6740
+537 [ 'jmp', '-530' ]
+7 'loop detected!' 6740
+7 [ 'acc', '+10' ]
+8 'loop detected!' 6750
+8 [ 'jmp', '+1' ]
+9 'loop detected!' 6750
+9 [ 'acc', '+0' ]
+10 'loop detected!' 6750
+10 [ 'jmp', '+236' ]
+246 'loop detected!' 6750
+246 [ 'acc', '+30' ]
+247 'loop detected!' 6780
+247 [ 'acc', '+43' ]
+248 'loop detected!' 6823
+248 [ 'acc', '+28' ]
+249 'loop detected!' 6851
+249 [ 'jmp', '-188' ]
+61 'loop detected!' 6851
+61 [ 'acc', '-15' ]
+62 'loop detected!' 6836
+62 [ 'acc', '-8' ]
+63 'loop detected!' 6828
+63 [ 'nop', '+288' ]
+64 'loop detected!' 6828
+64 [ 'acc', '-16' ]
+65 'loop detected!' 6812
+65 [ 'jmp', '+376' ]
+441 'loop detected!' 6812
+441 [ 'acc', '-5' ]
+442 'loop detected!' 6807
+442 [ 'jmp', '+1' ]
+443 'loop detected!' 6807
+443 [ 'acc', '+50' ]
+444 'loop detected!' 6857
+444 [ 'acc', '+37' ]
+445 'loop detected!' 6894
+445 [ 'jmp', '-129' ]
+316 'loop detected!' 6894
+316 [ 'jmp', '+144' ]
+460 'loop detected!' 6894
+460 [ 'acc', '+46' ]
+461 'loop detected!' 6940
+461 [ 'acc', '-13' ]
+462 'loop detected!' 6927
+462 [ 'acc', '+41' ]
+463 'loop detected!' 6968
+463 [ 'acc', '+11' ]
+464 'loop detected!' 6979
+464 [ 'jmp', '-188' ]
+276 'loop detected!' 6979
+276 [ 'acc', '+32' ]
+277 'loop detected!' 7011
+277 [ 'jmp', '-92' ]
+185 'loop detected!' 7011
+185 [ 'acc', '+47' ]
+186 'loop detected!' 7058
+186 [ 'nop', '+394' ]
+187 'loop detected!' 7058
+187 [ 'jmp', '-13' ]
+174 'loop detected!' 7058
+174 [ 'nop', '+52' ]
+175 'loop detected!' 7058
+175 [ 'acc', '+25' ]
+176 'loop detected!' 7083
+176 [ 'jmp', '+376' ]
+552 'loop detected!' 7083
+552 [ 'jmp', '-10' ]
+542 'loop detected!' 7083
+542 [ 'acc', '-15' ]
+543 'loop detected!' 7068
+543 [ 'acc', '+4' ]
+544 'loop detected!' 7072
+544 [ 'nop', '-330' ]
+545 'loop detected!' 7072
+545 [ 'acc', '+32' ]
+546 'loop detected!' 7104
+546 [ 'jmp', '-115' ]
+431 'loop detected!' 7104
+431 [ 'acc', '-7' ]
+432 'loop detected!' 7097
+432 [ 'jmp', '-107' ]
+325 'loop detected!' 7097
+325 [ 'acc', '+3' ]
+326 'loop detected!' 7100
+326 [ 'jmp', '+109' ]
+435 'loop detected!' 7100
+435 [ 'acc', '+48' ]
+436 'loop detected!' 7148
+436 [ 'jmp', '-65' ]
+371 'loop detected!' 7148
+371 [ 'jmp', '-289' ]
+82 'loop detected!' 7148
+82 [ 'acc', '+16' ]
+83 'loop detected!' 7164
+83 [ 'acc', '+9' ]
+84 'loop detected!' 7173
+84 [ 'acc', '-2' ]
+85 'loop detected!' 7171
+85 [ 'acc', '-5' ]
+86 'loop detected!' 7166
+86 [ 'jmp', '+276' ]
+362 'loop detected!' 7166
+362 [ 'jmp', '+263' ]
+625 'loop detected!' 7166
+625 [ 'nop', '-546' ]
+626 'loop detected!' 7166
+626 [ 'jmp', '-490' ]
+136 'loop detected!' 7166
+136 [ 'acc', '+24' ]
+137 'loop detected!' 7190
+137 [ 'jmp', '+93' ]
+230 'loop detected!' 7190
+230 [ 'jmp', '-103' ]
+127 'loop detected!' 7190
+127 [ 'acc', '+44' ]
+128 'loop detected!' 7234
+128 [ 'acc', '+36' ]
+129 'loop detected!' 7270
+129 [ 'nop', '+45' ]
+130 'loop detected!' 7270
+130 [ 'jmp', '+137' ]
+267 'loop detected!' 7270
+267 [ 'acc', '-5' ]
+268 'loop detected!' 7265
+268 [ 'acc', '+15' ]
+269 'loop detected!' 7280
+269 [ 'acc', '+8' ]
+270 'loop detected!' 7288
+270 [ 'jmp', '+310' ]
+580 'loop detected!' 7288
+580 [ 'acc', '-13' ]
+581 'loop detected!' 7275
+581 [ 'jmp', '-170' ]
+411 'loop detected!' 7275
+411 [ 'acc', '+6' ]
+412 'loop detected!' 7281
+412 [ 'jmp', '-208' ]
+204 'loop detected!' 7281
+204 [ 'acc', '+30' ]
+205 'loop detected!' 7311
+205 [ 'jmp', '+144' ]
+349 'loop detected!' 7311
+349 [ 'jmp', '-181' ]
+168 'loop detected!' 7311
+168 [ 'acc', '-2' ]
+169 'loop detected!' 7309
+169 [ 'acc', '+49' ]
+170 'loop detected!' 7358
+170 [ 'acc', '+3' ]
+171 'loop detected!' 7361
+171 [ 'acc', '-17' ]
+172 'loop detected!' 7344
+172 [ 'jmp', '-52' ]
+120 'loop detected!' 7344
+120 [ 'acc', '+7' ]
+121 'loop detected!' 7351
+121 [ 'acc', '+31' ]
+122 'loop detected!' 7382
+122 [ 'acc', '+14' ]
+123 'loop detected!' 7396
+123 [ 'acc', '+0' ]
+124 'loop detected!' 7396
+124 [ 'jmp', '+291' ]
+415 'loop detected!' 7396
+415 [ 'acc', '+23' ]
+416 'loop detected!' 7419
+416 [ 'acc', '+23' ]
+417 'loop detected!' 7442
+417 [ 'acc', '+24' ]
+418 'loop detected!' 7466
+418 [ 'acc', '+26' ]
+419 'loop detected!' 7492
+419 [ 'jmp', '-390' ]
+29 'loop detected!' 7492
+29 [ 'nop', '+182' ]
+30 'loop detected!' 7492
+30 [ 'acc', '+49' ]
+31 'loop detected!' 7541
+31 [ 'acc', '-12' ]
+32 'loop detected!' 7529
+32 [ 'jmp', '-14' ]
+18 'loop detected!' 7529
+18 [ 'jmp', '+208' ]
+226 'loop detected!' 7529
+226 [ 'acc', '-16' ]
+227 'loop detected!' 7513
+227 [ 'jmp', '+65' ]
+292 'loop detected!' 7513
+292 [ 'acc', '-8' ]
+293 'loop detected!' 7505
+293 [ 'acc', '+9' ]
+294 'loop detected!' 7514
+294 [ 'jmp', '+312' ]
+606 'loop detected!' 7514
+606 [ 'jmp', '+1' ]
+607 'loop detected!' 7514
+607 [ 'acc', '+45' ]
+608 'loop detected!' 7559
+608 [ 'acc', '+47' ]
+609 'loop detected!' 7606
+609 [ 'jmp', '-307' ]
+302 'loop detected!' 7606
+302 [ 'acc', '+19' ]
+303 'loop detected!' 7625
+303 [ 'nop', '-89' ]
+304 'loop detected!' 7625
+304 [ 'acc', '+24' ]
+305 'loop detected!' 7649
+305 [ 'nop', '-94' ]
+306 'loop detected!' 7649
+306 [ 'jmp', '+5' ]
+311 'loop detected!' 7649
+311 [ 'jmp', '+137' ]
+448 'loop detected!' 7649
+448 [ 'jmp', '-212' ]
+236 'loop detected!' 7649
+236 [ 'acc', '+13' ]
+237 'loop detected!' 7662
+237 [ 'jmp', '+114' ]
+351 'loop detected!' 7662
+351 [ 'acc', '+40' ]
+352 'loop detected!' 7702
+352 [ 'acc', '+5' ]
+353 'loop detected!' 7707
+353 [ 'jmp', '-274' ]
+79 'loop detected!' 7707
+79 [ 'acc', '-7' ]
+80 'loop detected!' 7700
+80 [ 'jmp', '+175' ]
+255 'loop detected!' 7700
+255 [ 'jmp', '+225' ]
+480 'loop detected!' 7700
+480 [ 'acc', '+47' ]
+481 'loop detected!' 7747
+481 [ 'acc', '-18' ]
+482 'loop detected!' 7729
+482 [ 'acc', '-1' ]
+483 'loop detected!' 7728
+483 [ 'acc', '+2' ]
+484 'loop detected!' 7730
+484 [ 'jmp', '-152' ]
+332 'loop detected!' 7730
+332 [ 'acc', '+28' ]
+333 'loop detected!' 7758
+333 [ 'jmp', '-134' ]
+199 'loop detected!' 7758
+199 [ 'acc', '+24' ]
+200 'loop detected!' 7782
+200 [ 'acc', '+43' ]
+201 'loop detected!' 7825
+201 [ 'acc', '+50' ]
+202 'loop detected!' 7875
+202 [ 'jmp', '+58' ]
+260 'loop detected!' 7875
+260 [ 'acc', '+7' ]
+261 'loop detected!' 7882
+261 [ 'acc', '+43' ]
+262 'loop detected!' 7925
+262 [ 'nop', '-210' ]
+263 'loop detected!' 7925
+263 [ 'acc', '-9' ]
+264 'loop detected!' 7916
+264 [ 'jmp', '+109' ]
+373 'loop detected!' 7916
+373 [ 'acc', '+45' ]
+374 'loop detected!' 7961
+374 [ 'jmp', '-142' ]
+232 'loop detected!' 7961
+232 [ 'acc', '+46' ]
+233 'loop detected!' 8007
+233 [ 'jmp', '+289' ]
+522 'loop detected!' 8007
+522 [ 'acc', '+4' ]
+523 'loop detected!' 8011
+523 [ 'nop', '-108' ]
+524 'loop detected!' 8011
+524 [ 'acc', '+27' ]
+525 'loop detected!' 8038
+525 [ 'jmp', '+2' ]
+527 'loop detected!' 8038
+527 [ 'acc', '+2' ]
+528 'loop detected!' 8040
+528 [ 'jmp', '-103' ]
+425 'loop detected!' 8040
+425 [ 'acc', '-10' ]
+426 'loop detected!' 8030
+426 [ 'acc', '+19' ]
+427 'loop detected!' 8049
+427 [ 'jmp', '+167' ]
+594 'loop detected!' 8049
+594 [ 'nop', '-223' ]
+595 'loop detected!' 8049
+595 [ 'jmp', '-299' ]
+296 'loop detected!' 8049
+296 [ 'acc', '-3' ]
+297 'loop detected!' 8046
+297 [ 'acc', '-3' ]
+298 'loop detected!' 8043
+298 [ 'acc', '+24' ]
+299 'loop detected!' 8067
+299 [ 'jmp', '+94' ]
+393 'loop detected!' 8067
+393 [ 'acc', '+44' ]
+394 'loop detected!' 8111
+394 [ 'jmp', '+10' ]
+404 'loop detected!' 8111
+404 [ 'acc', '+0' ]
+405 'loop detected!' 8111
+405 [ 'acc', '+33' ]
+406 'loop detected!' 8144
+406 [ 'jmp', '+82' ]
+488 'loop detected!' 8144
+488 [ 'nop', '+67' ]
+489 'loop detected!' 8144
+489 [ 'acc', '+9' ]
+490 'loop detected!' 8153
+490 [ 'jmp', '+1' ]
+491 'loop detected!' 8153
+491 [ 'jmp', '-377' ]
+114 'loop detected!' 8153
+114 [ 'jmp', '-93' ]
+21 'loop detected!' 8153
+21 [ 'acc', '+2' ]
+22 'loop detected!' 8155
+22 [ 'acc', '-8' ]
+23 'loop detected!' 8147
+23 [ 'jmp', '+375' ]
+398 'loop detected!' 8147
+398 [ 'acc', '-5' ]
+399 'loop detected!' 8142
+399 [ 'nop', '+226' ]
+400 'loop detected!' 8142
+400 [ 'acc', '+46' ]
+401 'loop detected!' 8188
+401 [ 'acc', '-10' ]
+402 'loop detected!' 8178
+402 [ 'jmp', '-15' ]
+387 'loop detected!' 8178
+387 [ 'jmp', '+168' ]
+555 'loop detected!' 8178
+555 [ 'acc', '+41' ]
+556 'loop detected!' 8219
+556 [ 'jmp', '+59' ]
+615 'loop detected!' 8219
+615 [ 'acc', '+4' ]
+616 'loop detected!' 8223
+616 [ 'acc', '-3' ]
+617 'loop detected!' 8220
+617 [ 'acc', '+37' ]
+618 'loop detected!' 8257
+618 [ 'acc', '+40' ]
+619 'loop detected!' 8297
+619 [ 'jmp', '-32' ]
+587 'loop detected!' 8297
+587 [ 'acc', '+42' ]
+588 'loop detected!' 8339
+588 [ 'acc', '+33' ]
+589 'loop detected!' 8372
+589 [ 'jmp', '-395' ]
+194 'loop detected!' 8372
+194 [ 'acc', '+3' ]
+195 'loop detected!' 8375
+195 [ 'acc', '-5' ]
+196 'loop detected!' 8370
+196 [ 'jmp', '+337' ]
+533 'loop detected!' 8370
+533 [ 'acc', '+47' ]
+534 'loop detected!' 8417
+534 [ 'acc', '+40' ]
+535 'loop detected!' 8457
+535 [ 'nop', '-346' ]
+536 'loop detected!' 8457
+536 [ 'acc', '-2' ]
+537 'loop detected!' 8455
+537 [ 'jmp', '-530' ]
+7 'loop detected!' 8455
+7 [ 'acc', '+10' ]
+8 'loop detected!' 8465
+8 [ 'jmp', '+1' ]
+9 'loop detected!' 8465
+9 [ 'acc', '+0' ]
+10 'loop detected!' 8465
+10 [ 'jmp', '+236' ]
+246 'loop detected!' 8465
+246 [ 'acc', '+30' ]
+247 'loop detected!' 8495
+247 [ 'acc', '+43' ]
+248 'loop detected!' 8538
+248 [ 'acc', '+28' ]
+249 'loop detected!' 8566
+249 [ 'jmp', '-188' ]
+61 'loop detected!' 8566
+61 [ 'acc', '-15' ]
+62 'loop detected!' 8551
+62 [ 'acc', '-8' ]
+63 'loop detected!' 8543
+63 [ 'nop', '+288' ]
+64 'loop detected!' 8543
+64 [ 'acc', '-16' ]
+65 'loop detected!' 8527
+65 [ 'jmp', '+376' ]
+441 'loop detected!' 8527
+441 [ 'acc', '-5' ]
+442 'loop detected!' 8522
+442 [ 'jmp', '+1' ]
+443 'loop detected!' 8522
+443 [ 'acc', '+50' ]
+444 'loop detected!' 8572
+444 [ 'acc', '+37' ]
+445 'loop detected!' 8609
+445 [ 'jmp', '-129' ]
+316 'loop detected!' 8609
+316 [ 'jmp', '+144' ]
+460 'loop detected!' 8609
+460 [ 'acc', '+46' ]
+461 'loop detected!' 8655
+461 [ 'acc', '-13' ]
+462 'loop detected!' 8642
+462 [ 'acc', '+41' ]
+463 'loop detected!' 8683
+463 [ 'acc', '+11' ]
+464 'loop detected!' 8694
+464 [ 'jmp', '-188' ]
+276 'loop detected!' 8694
+276 [ 'acc', '+32' ]
+277 'loop detected!' 8726
+277 [ 'jmp', '-92' ]
+185 'loop detected!' 8726
+185 [ 'acc', '+47' ]
+186 'loop detected!' 8773
+186 [ 'nop', '+394' ]
+187 'loop detected!' 8773
+187 [ 'jmp', '-13' ]
+174 'loop detected!' 8773
+174 [ 'nop', '+52' ]
+175 'loop detected!' 8773
+175 [ 'acc', '+25' ]
+176 'loop detected!' 8798
+176 [ 'jmp', '+376' ]
+552 'loop detected!' 8798
+552 [ 'jmp', '-10' ]
+542 'loop detected!' 8798
+542 [ 'acc', '-15' ]
+543 'loop detected!' 8783
+543 [ 'acc', '+4' ]
+544 'loop detected!' 8787
+544 [ 'nop', '-330' ]
+545 'loop detected!' 8787
+545 [ 'acc', '+32' ]
+546 'loop detected!' 8819
+546 [ 'jmp', '-115' ]
+431 'loop detected!' 8819
+431 [ 'acc', '-7' ]
+432 'loop detected!' 8812
+432 [ 'jmp', '-107' ]
+325 'loop detected!' 8812
+325 [ 'acc', '+3' ]
+326 'loop detected!' 8815
+326 [ 'jmp', '+109' ]
+435 'loop detected!' 8815
+435 [ 'acc', '+48' ]
+436 'loop detected!' 8863
+436 [ 'jmp', '-65' ]
+371 'loop detected!' 8863
+371 [ 'jmp', '-289' ]
+82 'loop detected!' 8863
+82 [ 'acc', '+16' ]
+83 'loop detected!' 8879
+83 [ 'acc', '+9' ]
+84 'loop detected!' 8888
+84 [ 'acc', '-2' ]
+85 'loop detected!' 8886
+85 [ 'acc', '-5' ]
+86 'loop detected!' 8881
+86 [ 'jmp', '+276' ]
+362 'loop detected!' 8881
+362 [ 'jmp', '+263' ]
+625 'loop detected!' 8881
+625 [ 'nop', '-546' ]
+626 'loop detected!' 8881
+626 [ 'jmp', '-490' ]
+136 'loop detected!' 8881
+136 [ 'acc', '+24' ]
+137 'loop detected!' 8905
+137 [ 'jmp', '+93' ]
+230 'loop detected!' 8905
+230 [ 'jmp', '-103' ]
+127 'loop detected!' 8905
+127 [ 'acc', '+44' ]
+128 'loop detected!' 8949
+128 [ 'acc', '+36' ]
+129 'loop detected!' 8985
+129 [ 'nop', '+45' ]
+130 'loop detected!' 8985
+130 [ 'jmp', '+137' ]
+267 'loop detected!' 8985
+267 [ 'acc', '-5' ]
+268 'loop detected!' 8980
+268 [ 'acc', '+15' ]
+269 'loop detected!' 8995
+269 [ 'acc', '+8' ]
+270 'loop detected!' 9003
+270 [ 'jmp', '+310' ]
+580 'loop detected!' 9003
+580 [ 'acc', '-13' ]
+581 'loop detected!' 8990
+581 [ 'jmp', '-170' ]
+411 'loop detected!' 8990
+411 [ 'acc', '+6' ]
+412 'loop detected!' 8996
+412 [ 'jmp', '-208' ]
+204 'loop detected!' 8996
+204 [ 'acc', '+30' ]
+205 'loop detected!' 9026
+205 [ 'jmp', '+144' ]
+349 'loop detected!' 9026
+349 [ 'jmp', '-181' ]
+168 'loop detected!' 9026
+168 [ 'acc', '-2' ]
+169 'loop detected!' 9024
+169 [ 'acc', '+49' ]
+170 'loop detected!' 9073
+170 [ 'acc', '+3' ]
+171 'loop detected!' 9076
+171 [ 'acc', '-17' ]
+172 'loop detected!' 9059
+172 [ 'jmp', '-52' ]
+120 'loop detected!' 9059
+120 [ 'acc', '+7' ]
+121 'loop detected!' 9066
+121 [ 'acc', '+31' ]
+122 'loop detected!' 9097
+122 [ 'acc', '+14' ]
+123 'loop detected!' 9111
+123 [ 'acc', '+0' ]
+124 'loop detected!' 9111
+124 [ 'jmp', '+291' ]
+415 'loop detected!' 9111
+415 [ 'acc', '+23' ]
+416 'loop detected!' 9134
+416 [ 'acc', '+23' ]
+417 'loop detected!' 9157
+417 [ 'acc', '+24' ]
+418 'loop detected!' 9181
+418 [ 'acc', '+26' ]
+419 'loop detected!' 9207
+419 [ 'jmp', '-390' ]
+29 'loop detected!' 9207
+29 [ 'nop', '+182' ]
+30 'loop detected!' 9207
+30 [ 'acc', '+49' ]
+31 'loop detected!' 9256
+31 [ 'acc', '-12' ]
+32 'loop detected!' 9244
+32 [ 'jmp', '-14' ]
+18 'loop detected!' 9244
+18 [ 'jmp', '+208' ]
+226 'loop detected!' 9244
+226 [ 'acc', '-16' ]
+227 'loop detected!' 9228
+227 [ 'jmp', '+65' ]
+292 'loop detected!' 9228
+292 [ 'acc', '-8' ]
+293 'loop detected!' 9220
+293 [ 'acc', '+9' ]
+294 'loop detected!' 9229
+294 [ 'jmp', '+312' ]
+606 'loop detected!' 9229
+606 [ 'jmp', '+1' ]
+607 'loop detected!' 9229
+607 [ 'acc', '+45' ]
+608 'loop detected!' 9274
+608 [ 'acc', '+47' ]
+609 'loop detected!' 9321
+609 [ 'jmp', '-307' ]
+302 'loop detected!' 9321
+302 [ 'acc', '+19' ]
+303 'loop detected!' 9340
+303 [ 'nop', '-89' ]
+304 'loop detected!' 9340
+304 [ 'acc', '+24' ]
+305 'loop detected!' 9364
+305 [ 'nop', '-94' ]
+306 'loop detected!' 9364
+306 [ 'jmp', '+5' ]
+311 'loop detected!' 9364
+311 [ 'jmp', '+137' ]
+448 'loop detected!' 9364
+448 [ 'jmp', '-212' ]
+236 'loop detected!' 9364
+236 [ 'acc', '+13' ]
+237 'loop detected!' 9377
+237 [ 'jmp', '+114' ]
+351 'loop detected!' 9377
+351 [ 'acc', '+40' ]
+352 'loop detected!' 9417
+352 [ 'acc', '+5' ]
+353 'loop detected!' 9422
+353 [ 'jmp', '-274' ]
+79 'loop detected!' 9422
+79 [ 'acc', '-7' ]
+80 'loop detected!' 9415
+80 [ 'jmp', '+175' ]
+255 'loop detected!' 9415
+255 [ 'jmp', '+225' ]
+480 'loop detected!' 9415
+480 [ 'acc', '+47' ]
+481 'loop detected!' 9462
+481 [ 'acc', '-18' ]
+482 'loop detected!' 9444
+482 [ 'acc', '-1' ]
+483 'loop detected!' 9443
+483 [ 'acc', '+2' ]
+484 'loop detected!' 9445
+484 [ 'jmp', '-152' ]
+332 'loop detected!' 9445
+332 [ 'acc', '+28' ]
+333 'loop detected!' 9473
+333 [ 'jmp', '-134' ]
+199 'loop detected!' 9473
+199 [ 'acc', '+24' ]
+200 'loop detected!' 9497
+200 [ 'acc', '+43' ]
+201 'loop detected!' 9540
+201 [ 'acc', '+50' ]
+202 'loop detected!' 9590
+202 [ 'jmp', '+58' ]
+260 'loop detected!' 9590
+260 [ 'acc', '+7' ]
+261 'loop detected!' 9597
+261 [ 'acc', '+43' ]
+262 'loop detected!' 9640
+262 [ 'nop', '-210' ]
+263 'loop detected!' 9640
+263 [ 'acc', '-9' ]
+264 'loop detected!' 9631
+264 [ 'jmp', '+109' ]
+373 'loop detected!' 9631
+373 [ 'acc', '+45' ]
+374 'loop detected!' 9676
+374 [ 'jmp', '-142' ]
+232 'loop detected!' 9676
+232 [ 'acc', '+46' ]
+233 'loop detected!' 9722
+233 [ 'jmp', '+289' ]
+522 'loop detected!' 9722
+522 [ 'acc', '+4' ]
+523 'loop detected!' 9726
+523 [ 'nop', '-108' ]
+524 'loop detected!' 9726
+524 [ 'acc', '+27' ]
+525 'loop detected!' 9753
+525 [ 'jmp', '+2' ]
+527 'loop detected!' 9753
+527 [ 'acc', '+2' ]
+528 'loop detected!' 9755
+528 [ 'jmp', '-103' ]
+425 'loop detected!' 9755
+425 [ 'acc', '-10' ]
+426 'loop detected!' 9745
+426 [ 'acc', '+19' ]
+427 'loop detected!' 9764
+427 [ 'jmp', '+167' ]
+594 'loop detected!' 9764
+594 [ 'nop', '-223' ]
+595 'loop detected!' 9764
+595 [ 'jmp', '-299' ]
+296 'loop detected!' 9764
+296 [ 'acc', '-3' ]
+297 'loop detected!' 9761
+297 [ 'acc', '-3' ]
+298 'loop detected!' 9758
+298 [ 'acc', '+24' ]
+299 'loop detected!' 9782
+299 [ 'jmp', '+94' ]
+393 'loop detected!' 9782
+393 [ 'acc', '+44' ]
+394 'loop detected!' 9826
+394 [ 'jmp', '+10' ]
+404 'loop detected!' 9826
+404 [ 'acc', '+0' ]
+405 'loop detected!' 9826
+405 [ 'acc', '+33' ]
+406 'loop detected!' 9859
+406 [ 'jmp', '+82' ]
+488 'loop detected!' 9859
+488 [ 'nop', '+67' ]
+489 'loop detected!' 9859
+489 [ 'acc', '+9' ]
+490 'loop detected!' 9868
+490 [ 'jmp', '+1' ]
+491 'loop detected!' 9868
+491 [ 'jmp', '-377' ]
+114 'loop detected!' 9868
+114 [ 'jmp', '-93' ]
+21 'loop detected!' 9868
+21 [ 'acc', '+2' ]
+22 'loop detected!' 9870
+22 [ 'acc', '-8' ]
+23 'loop detected!' 9862
+23 [ 'jmp', '+375' ]
+398 'loop detected!' 9862
+398 [ 'acc', '-5' ]
+399 'loop detected!' 9857
+399 [ 'nop', '+226' ]
+400 'loop detected!' 9857
+400 [ 'acc', '+46' ]
+401 'loop detected!' 9903
+401 [ 'acc', '-10' ]
+402 'loop detected!' 9893
+402 [ 'jmp', '-15' ]
+387 'loop detected!' 9893
+387 [ 'jmp', '+168' ]
+555 'loop detected!' 9893
+555 [ 'acc', '+41' ]
+556 'loop detected!' 9934
+556 [ 'jmp', '+59' ]
+615 'loop detected!' 9934
+615 [ 'acc', '+4' ]
+616 'loop detected!' 9938
+616 [ 'acc', '-3' ]
+617 'loop detected!' 9935
+617 [ 'acc', '+37' ]
+618 'loop detected!' 9972
+618 [ 'acc', '+40' ]
+619 'loop detected!' 10012
+619 [ 'jmp', '-32' ]
+587 'loop detected!' 10012
+587 [ 'acc', '+42' ]
+588 'loop detected!' 10054
+588 [ 'acc', '+33' ]
+589 'loop detected!' 10087
+589 [ 'jmp', '-395' ]
+194 'loop detected!' 10087
+194 [ 'acc', '+3' ]
+195 'loop detected!' 10090
+195 [ 'acc', '-5' ]
+196 'loop detected!' 10085
+196 [ 'jmp', '+337' ]
+533 'loop detected!' 10085
+533 [ 'acc', '+47' ]
+534 'loop detected!' 10132
+534 [ 'acc', '+40' ]
+535 'loop detected!' 10172
+535 [ 'nop', '-346' ]
+536 'loop detected!' 10172
+536 [ 'acc', '-2' ]
+537 'loop detected!' 10170
+537 [ 'jmp', '-530' ]
+7 'loop detected!' 10170
+7 [ 'acc', '+10' ]
+8 'loop detected!' 10180
+8 [ 'jmp', '+1' ]
+9 'loop detected!' 10180
+9 [ 'acc', '+0' ]
+10 'loop detected!' 10180
+10 [ 'jmp', '+236' ]
+246 'loop detected!' 10180
+246 [ 'acc', '+30' ]
+247 'loop detected!' 10210
+247 [ 'acc', '+43' ]
+248 'loop detected!' 10253
+248 [ 'acc', '+28' ]
+249 'loop detected!' 10281
+249 [ 'jmp', '-188' ]
+61 'loop detected!' 10281
+61 [ 'acc', '-15' ]
+62 'loop detected!' 10266
+62 [ 'acc', '-8' ]
+63 'loop detected!' 10258
+63 [ 'nop', '+288' ]
+64 'loop detected!' 10258
+64 [ 'acc', '-16' ]
+65 'loop detected!' 10242
+65 [ 'jmp', '+376' ]
+441 'loop detected!' 10242
+441 [ 'acc', '-5' ]
+442 'loop detected!' 10237
+442 [ 'jmp', '+1' ]
+443 'loop detected!' 10237
+443 [ 'acc', '+50' ]
+444 'loop detected!' 10287
+444 [ 'acc', '+37' ]
+445 'loop detected!' 10324
+445 [ 'jmp', '-129' ]
+316 'loop detected!' 10324
+316 [ 'jmp', '+144' ]
+460 'loop detected!' 10324
+460 [ 'acc', '+46' ]
+461 'loop detected!' 10370
+461 [ 'acc', '-13' ]
+462 'loop detected!' 10357
+462 [ 'acc', '+41' ]
+463 'loop detected!' 10398
+463 [ 'acc', '+11' ]
+464 'loop detected!' 10409
+464 [ 'jmp', '-188' ]
+276 'loop detected!' 10409
+276 [ 'acc', '+32' ]
+277 'loop detected!' 10441
+277 [ 'jmp', '-92' ]
+185 'loop detected!' 10441
+185 [ 'acc', '+47' ]
+186 'loop detected!' 10488
+186 [ 'nop', '+394' ]
+187 'loop detected!' 10488
+187 [ 'jmp', '-13' ]
+174 'loop detected!' 10488
+174 [ 'nop', '+52' ]
+175 'loop detected!' 10488
+175 [ 'acc', '+25' ]
+176 'loop detected!' 10513
+176 [ 'jmp', '+376' ]
+552 'loop detected!' 10513
+552 [ 'jmp', '-10' ]
+542 'loop detected!' 10513
+542 [ 'acc', '-15' ]
+543 'loop detected!' 10498
+543 [ 'acc', '+4' ]
+544 'loop detected!' 10502
+544 [ 'nop', '-330' ]
+545 'loop detected!' 10502
+545 [ 'acc', '+32' ]
+546 'loop detected!' 10534
+546 [ 'jmp', '-115' ]
+431 'loop detected!' 10534
+431 [ 'acc', '-7' ]
+432 'loop detected!' 10527
+432 [ 'jmp', '-107' ]
+325 'loop detected!' 10527
+325 [ 'acc', '+3' ]
+326 'loop detected!' 10530
+326 [ 'jmp', '+109' ]
+435 'loop detected!' 10530
+435 [ 'acc', '+48' ]
+436 'loop detected!' 10578
+436 [ 'jmp', '-65' ]
+371 'loop detected!' 10578
+371 [ 'jmp', '-289' ]
+82 'loop detected!' 10578
+82 [ 'acc', '+16' ]
+83 'loop detected!' 10594
+83 [ 'acc', '+9' ]
+84 'loop detected!' 10603
+84 [ 'acc', '-2' ]
+85 'loop detected!' 10601
+85 [ 'acc', '-5' ]
+86 'loop detected!' 10596
+86 [ 'jmp', '+276' ]
+362 'loop detected!' 10596
+362 [ 'jmp', '+263' ]
+625 'loop detected!' 10596
+625 [ 'nop', '-546' ]
+626 'loop detected!' 10596
+626 [ 'jmp', '-490' ]
+136 'loop detected!' 10596
+136 [ 'acc', '+24' ]
+137 'loop detected!' 10620
+137 [ 'jmp', '+93' ]
+230 'loop detected!' 10620
+230 [ 'jmp', '-103' ]
+127 'loop detected!' 10620
+127 [ 'acc', '+44' ]
+128 'loop detected!' 10664
+128 [ 'acc', '+36' ]
+129 'loop detected!' 10700
+129 [ 'nop', '+45' ]
+130 'loop detected!' 10700
+130 [ 'jmp', '+137' ]
+267 'loop detected!' 10700
+267 [ 'acc', '-5' ]
+268 'loop detected!' 10695
+268 [ 'acc', '+15' ]
+269 'loop detected!' 10710
+269 [ 'acc', '+8' ]
+270 'loop detected!' 10718
+270 [ 'jmp', '+310' ]
+580 'loop detected!' 10718
+580 [ 'acc', '-13' ]
+581 'loop detected!' 10705
+581 [ 'jmp', '-170' ]
+411 'loop detected!' 10705
+411 [ 'acc', '+6' ]
+412 'loop detected!' 10711
+412 [ 'jmp', '-208' ]
+204 'loop detected!' 10711
+204 [ 'acc', '+30' ]
+205 'loop detected!' 10741
+205 [ 'jmp', '+144' ]
+349 'loop detected!' 10741
+349 [ 'jmp', '-181' ]
+168 'loop detected!' 10741
+168 [ 'acc', '-2' ]
+169 'loop detected!' 10739
+169 [ 'acc', '+49' ]
+170 'loop detected!' 10788
+170 [ 'acc', '+3' ]
+171 'loop detected!' 10791
+171 [ 'acc', '-17' ]
+172 'loop detected!' 10774
+172 [ 'jmp', '-52' ]
+120 'loop detected!' 10774
+120 [ 'acc', '+7' ]
+121 'loop detected!' 10781
+121 [ 'acc', '+31' ]
+122 'loop detected!' 10812
+122 [ 'acc', '+14' ]
+123 'loop detected!' 10826
+123 [ 'acc', '+0' ]
+124 'loop detected!' 10826
+124 [ 'jmp', '+291' ]
+415 'loop detected!' 10826
+415 [ 'acc', '+23' ]
+416 'loop detected!' 10849
+416 [ 'acc', '+23' ]
+417 'loop detected!' 10872
+417 [ 'acc', '+24' ]
+418 'loop detected!' 10896
