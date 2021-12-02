@@ -1,0 +1,8 @@
+dictionary entry:
+32     bits (4 bytes) pointer
+3      bits flags
+5      bits length
+32-252 bits (4-32 bytes, always multiple of 4) name
+
+
+a variable called LATEST points to latest word in dictionary
